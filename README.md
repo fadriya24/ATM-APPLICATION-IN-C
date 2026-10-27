@@ -25,5 +25,4 @@ Features
 - Input validation
 - Working with built-in modules
 
-## 📄 License
-MIT License
+
